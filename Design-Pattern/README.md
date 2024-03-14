@@ -24,3 +24,5 @@ Question 3 : Voir Main.java pour lancer
 Question 4 : Ce code respecte le principe Open/Closed du SOLID car il est ouvert à l'extension (on peut ajouter de nouvelles catégories de cartes ou de nouveaux types de cartes sans modifier le code existant) mais fermé à la modification (le code existant n'est pas modifié pour ajouter de nouvelles fonctionnalités). Pour ajouter ou supprimer une catégorie de client, il suffit de créer ou supprimer une sous-classe de Client avec la nouvelle catégorie, sans modifier le reste du code.
 
 Question 5 : (diagramme_abstract_factory.png)
+
+Question 6 : Voir Main.java pour lancer
